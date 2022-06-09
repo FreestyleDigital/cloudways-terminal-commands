@@ -1,5 +1,5 @@
 # How to clear Breeze in all applications on a specific server
-Clear Breeze for all applications in a server
+Clear Breeze for all applications on a server
 
 1. Connect to server via SSH (VSCODE)
 2. Navigate to `cd applications`
@@ -8,8 +8,9 @@ Clear Breeze for all applications in a server
 Command above loops through all of the applications and then runs `wp breeze purge -cache=all` in each `/public_html/` folder.
 
 
-# How to check if a application exists/does not exist in all applications on a specific server
-Clear Breeze for all applications in a server
+
+# How to check if a plugin is installed/not installed in all applications on a specific server
+Check whether a plugin is installed in all applications on a server
 
 1. Connect to server via SSH (VSCODE)
 2. Navigate to `cd applications`
