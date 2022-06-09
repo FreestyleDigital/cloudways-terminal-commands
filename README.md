@@ -7,7 +7,9 @@ Clear Breeze for all applications on a server
 
 Command above loops through all of the applications and then runs `wp breeze purge -cache=all` in each `/public_html/` folder.
 
-
+&nbsp;
+&nbsp;
+&nbsp;
 
 # How to check if a plugin is installed/not installed in all applications on a specific server
 Check whether a plugin is installed in all applications on a server
