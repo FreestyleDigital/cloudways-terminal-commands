@@ -1,6 +1,12 @@
 # Cloudways Terminal Commands
 Useful bash scripts to use on a Cloudways server
 
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 
 # How to clear Breeze in all applications on a specific server
 Clear Breeze for all applications on a server
