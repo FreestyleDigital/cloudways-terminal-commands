@@ -30,7 +30,7 @@ Check whether a plugin is installed in all applications on a server
 4. `for A in $(ls -l /home/master/applications/| grep "^d" | awk '{print $NF}'); 
 do
 cd /home/master/applications/$A/public_html/ && 
-if ! wp plugin is-installed cleantalk-spam-protect
+if ! wp plugin is-installed cleantalk-spam-protect;
 then
   echo "Not Installed: $A";
 fi;
